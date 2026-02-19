@@ -2,7 +2,12 @@
 
 import { useEffect, useState } from "react";
 
-type Project = { id: string; title: string; description?: string };
+type Project = {
+  id: string;
+  title: string;
+  description?: string;
+  createdAt?: string;
+};
 type Task = { id: string; title: string; projectId: string; status?: string };
 
 export default function Home() {
