@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "id": "1771466346687",
+      "title": "TESTE ",
+      "description": "",
+      "createdAt": "2026-02-19T01:59:06.687Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1771466349899",
+      "title": "TELHADO",
+      "projectId": "1771466346687",
+      "status": "todo",
+      "createdAt": "2026-02-19T01:59:09.899Z"
+    }
+  ]
+}
